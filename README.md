@@ -54,3 +54,10 @@
 | ---- | ------ |
 | [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
 | [Lxqt 探索筆記](https://samwhelp.github.io/note-about-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-lxqt) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
