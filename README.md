@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Archlinux Lxqt Adjustment](https://samwhelp.github.io/archlinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxqt-adjustment) |
 | [Archlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
 
@@ -51,4 +52,5 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
+| [Lxqt 探索筆記](https://samwhelp.github.io/note-about-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-lxqt) |
