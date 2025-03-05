@@ -25,7 +25,8 @@
 
 | 微調腳本 |
 | --- |
-| [archlinux-lxqt-adjustment](https://github.com/samwhelp/archlinux-lxqt-adjustment/tree/main/prototype/main) |
+| [Archlinux Lxqt Config](https://github.com/samwhelp/archlinux-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
